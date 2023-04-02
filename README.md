@@ -5,7 +5,7 @@
 
 <h2>Description</h2>
  
- Data Exploration Project with SQL  
+ <b> Data Exploration Project with SQL</b>  
  Tables
  Covid death
  covid vaccination 
