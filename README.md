@@ -1,10 +1,15 @@
 
 <h1>Data Analysis with SQL</h1>
 
- ### [YouTube Demonstration]
+
 
 <h2>Description</h2>
-
+ 
+ Data Exploration Project with SQL  
+ Tables
+ Covid death
+ covid vaccination 
+ 
 
 <br />
 
