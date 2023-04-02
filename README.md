@@ -43,8 +43,10 @@ Countries with highest DEATH rate compared to population:
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/F8vvMJH/most-deaths-Group-by-continents.jpg" alt="most-deaths-Group-by-continents" border="0" /></a>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+--Looking at total population vs vaccination
+-- Joining vaccination and death table 
+-- running count using sum() over (partition by and order by):  <br/>
+<a href="https://ibb.co/YDH7W8T"><img src="https://i.ibb.co/9wQ9v23/Looking-at-total-population-vs-vaccination.jpg" alt="Looking-at-total-population-vs-vaccination" border="0" /></a>
 <br />
 <br />
 Observe the wiped disk:  <br/>
