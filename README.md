@@ -6,9 +6,9 @@
 <h2>Description</h2>
  
  <b> Data Exploration Project with SQL</b>  
- <b> Tables : </b> 
- Covid death
- covid vaccination 
+ <b> Tables :Covid death,covid vaccination</b> 
+ <b>  </b> 
+ 
  
 
 <br />
@@ -26,7 +26,7 @@
 
 <p align="center">
 Table view: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/cNT1JxQ"><img src="https://i.ibb.co/Q6mf9XM/Table-view.jpg" alt="Table-view" border="0" /></a>
 <br />
 <br />
 Select the disk:  <br/>
