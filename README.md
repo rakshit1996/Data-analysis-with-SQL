@@ -28,21 +28,19 @@
 Table view: <br/>
 <a href="https://ibb.co/cNT1JxQ"><img src="https://i.ibb.co/Q6mf9XM/Table-view.jpg" alt="Table-view" border="0" /></a>
 <br />
+
 <br />
-curret-Death-rate:  <br/>
-<a href="https://ibb.co/vQFQFpf"><img src="https://i.ibb.co/HxSxS6R/curret-Death-rate.jpg" alt="curret-Death-rate" border="0" /></a>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Countries with highest INFECTION rate compared to population: <br/>
+<a href="https://ibb.co/3vs9q10"><img src="https://i.ibb.co/Qkc3R96/Countries-with-highest-infecton-rate-compared-to-population.jpg" alt="Countries-with-highest-infecton-rate-compared-to-population" border="0" /></a>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Countries with highest DEATH rate compared to population:
+ -- cast( column_name as data_type) is use bcs data type of total_death was different <br/>
+<a href="https://ibb.co/D9GRdHC"><img src="https://i.ibb.co/By4Ck5Z/Countries-with-highest-Death-rate-compared-to-population.jpg" alt="Countries-with-highest-Death-rate-compared-to-population" border="0" /></a>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+-- most deaths by continents:  <br/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/F8vvMJH/most-deaths-Group-by-continents.jpg" alt="most-deaths-Group-by-continents" border="0" /></a>
 <br />
 <br />
 Sanitization complete:  <br/>
