@@ -49,9 +49,10 @@ Countries with highest DEATH rate compared to population:
 <a href="https://ibb.co/YDH7W8T"><img src="https://i.ibb.co/9wQ9v23/Looking-at-total-population-vs-vaccination.jpg" alt="Looking-at-total-population-vs-vaccination" border="0" /></a>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+ *)USing CTE for population vs vaccination
+ *)creating CTE 
+:  <br/>
+<a href="https://ibb.co/3s0CkDy"><img src="https://i.ibb.co/z5S4Nyh/USING-CTE.jpg" alt="USING-CTE" border="0" /></a>
 
 <!--
  ```diff
