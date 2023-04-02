@@ -30,7 +30,7 @@ Table view: <br/>
 <br />
 <br />
 curret-Death-rate:  <br/>
-<a href="https://ibb.co/8bt7Prb"><img src="https://i.ibb.co/8bt7Prb/curret-Death-rate.jpg"alt="curret-Death-rate" border="0"></a>
+<a href="https://ibb.co/vQFQFpf"><img src="https://i.ibb.co/HxSxS6R/curret-Death-rate.jpg" alt="curret-Death-rate" border="0" /></a>
 <br />
 <br />
 Enter the number of passes: <br/>
