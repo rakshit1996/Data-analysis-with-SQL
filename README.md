@@ -29,8 +29,8 @@ Table view: <br/>
 <a href="https://ibb.co/cNT1JxQ"><img src="https://i.ibb.co/Q6mf9XM/Table-view.jpg" alt="Table-view" border="0" /></a>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+curret-Death-rate:  <br/>
+<a href="https://ibb.co/8bt7Prb"><img src="https://i.ibb.co/8bt7Prb/curret-Death-rate.jpg"alt="curret-Death-rate" border="0"></a>
 <br />
 <br />
 Enter the number of passes: <br/>
