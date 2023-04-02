@@ -6,7 +6,7 @@
 <h2>Description</h2>
  
  <b> Data Exploration Project with SQL</b>  
- <b> Tables </b> 
+ <b> Tables : </b> 
  Covid death
  covid vaccination 
  
